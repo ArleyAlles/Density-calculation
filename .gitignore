@@ -1,0 +1,9 @@
+.venv/
+
+*.o
+*.exe
+build/
+dist/
+
+.vscode/
+.idea/
